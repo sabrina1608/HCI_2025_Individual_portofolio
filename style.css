@@ -51,3 +51,57 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.workshop-page {
+  width: 100%;
+  max-width: 1000px;
+  margin: 40px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.full-img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.workshop-text {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-top: 10px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 20px;
+  color: #5a2ca0;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+.doc-link {
+  margin: 20px 0;
+  font-size: 18px;
+}
+
+.doc-link .label {
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.doc-link a {
+  color: #5a2ca0;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.doc-link a:hover {
+  text-decoration: underline;
+}
