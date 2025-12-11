@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background: #e7f6e9;
+  background: #77f0ce;
 }
 
 .container {
@@ -24,7 +24,7 @@ body {
 .avatar {
   width: 140px;
   height: 140px;
-  background: #9ad89a;
+  background: #8be7f0;
   border-radius: 50%;
   display: flex;
   align-items: center;
